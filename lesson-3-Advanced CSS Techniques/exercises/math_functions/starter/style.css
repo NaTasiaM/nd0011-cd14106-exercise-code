@@ -16,8 +16,12 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #ff7f50;
+  width: calc(100% - 30%);
+  height: calc(100% - 30%);
 }
 
 .inner-box {
   background-color: #ffd700;
+  width: calc(100% - 50%);
+  height: calc(100% - 50%);
 }
